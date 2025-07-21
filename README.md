@@ -18,21 +18,37 @@ Clean Bootstrap 5 frontend
 ├── src/
 
 │   ├── components/
+
 │   │   ├── data_ingestion.py
+
 │   │   ├── data_transformation.py
+
 │   │   └── model_trainer.py
+
 │   ├── exception.py
+
 │   ├── logger.py
+
 │   └── utils.py
+
 ├── artifacts/
+
 ├── templates/
+
 │   └── home.html
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── setup.py
+
 ├── README.md
+
 └── notebook/
+
     └── data/
+    
         └── stud.csv
 
 
