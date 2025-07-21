@@ -54,12 +54,12 @@ Clean Bootstrap 5 frontend
 
 📊 Input Features:
 
-Gender
-Race/Ethnicity
-Parental Level of Education
-Lunch Type
-Test Preparation Course
-Reading Score
+Gender, 
+Race/Ethnicity, 
+Parental Level of Education, 
+Lunch Type, 
+Test Preparation Course, 
+Reading Score, 
 Writing Score
 
 🎯 Target Variable: 
