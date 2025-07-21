@@ -16,6 +16,7 @@ Clean Bootstrap 5 frontend
 📂 Project Structure:
 
 ├── src/
+
 │   ├── components/
 │   │   ├── data_ingestion.py
 │   │   ├── data_transformation.py
